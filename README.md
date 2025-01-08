@@ -1,9 +1,9 @@
-I’m **0rx1**, a **Cybersecurity Expert** specializing in **Threat Intelligence**, **Breach Detection**, and **Incident Response** 🕵️‍♂️.
+I’m **0rx1** 🕵️‍♂️.
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=08FF00&center=true&width=435&lines=Threat+Intelligence;Breach+Detection;Securing+Meme+Addict" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=08FF00&center=true&width=435&lines=Threat+Intelligence;Breach+Detection;Meme+Addict" alt="Typing SVG" />
 </p>
 
 ---
