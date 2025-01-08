@@ -3,7 +3,7 @@ I’m **0rx1**, a **Cybersecurity Expert** specializing in **Threat Intelligence
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=08FF00&center=true&width=435&lines=Threat+Intelligence;Breach+Detection;Incident+Response+Strategist;Securing+the+Digital+World" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=08FF00&center=true&width=435&lines=Threat+Intelligence;Breach+Detection;Securing+Meme+Addict" alt="Typing SVG" />
 </p>
 
 ---
@@ -30,20 +30,6 @@ I’m **0rx1**, a **Cybersecurity Expert** specializing in **Threat Intelligence
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0rx1&theme=matrix&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
-
-## 🧑‍💻 Tools of the Trade
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Metasploit-026699?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ELK Stack" />
 </p>
 
 ---
